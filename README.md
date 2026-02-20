@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am working on a cybersecurity project with honeypots and Wazuh and also building the PESU Content Automation Suite to help students get course materials easily.<br>I am looking to collaborate on open source security tools or networking projects involving The Honeynet Project or LocalStack<br>I am currently learning the details of AWS Cloud Computing, along with my current coursework.<br>Ask me about Linux, Zsh terminal customization, shell scripting, cloud concepts, etc.<br>Fun fact I have Ayrton Senna stickers on my laptop and I am an occasional singer.
+I am working on a cybersecurity project with honeypots and Wazuh and also building the PESU Content Automation Suite to help students get course materials easily.<br>I am looking to collaborate on open source security tools or networking projects involving The Honeynet Project and OpenWISP<br>I am currently learning the details of AWS Cloud Computing, along with my current coursework.<br>Ask me about Linux, Zsh terminal customization, shell scripting, cloud concepts, etc.<br>Fun fact I have Ayrton Senna stickers on my laptop and I am an occasional singer.
 
 
 ## 🌐 Socials:
