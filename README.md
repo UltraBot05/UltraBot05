@@ -1,19 +1,22 @@
 <!-- ===================== HEADER ===================== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0f2027,50:203a43,100:2c5364&text=Abhigyan&fontSize=70&fontColor=00ffcc&animation=fadeIn&fontAlignY=35" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:000000,50:0a192f,100:000000&text=Abhigyan&fontSize=75&fontColor=00FF41&animation=fadeIn&fontAlignY=35&desc=Access%20Granted&descAlignY=55&descSize=20" alt="Header" />
 </div>
 
 <!-- ===================== TYPING SVG ===================== -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFCC&center=true&vCenter=true&width=600&lines=Systems+%26+Backend+Engineer;Open+Source+Contributor+(OpenWISP);Linux+%26+Cloud+Infrastructure;Building+Things+That+Scale+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFCC&center=true&vCenter=true&width=600&lines=Systems+%26+Backend+Engineer;Cybersecurity+%26+Infrastructure;Open+Source+Contributor+(OpenWISP);Building+Things+That+Scale+🚀" alt="Typing SVG" />
 </div>
 
 <div align="center">
+  <a href="mailto:tlauncherati@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a> 
   <a href="https://linkedin.com/in/adutta05" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a> 
   <a href="https://abhigyan-site.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Terminal_Portfolio-00FF41?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio"/>
   </a>
 </div>
 
@@ -22,7 +25,7 @@
 <!-- ===================== ABOUT ME (PYTHON STYLE) ===================== -->
 <table align="center" width="100%" style="border: none;">
   <tr>
-    <td width="60%" valign="top">
+    <td width="65%" valign="top">
 
 <pre><code><span style="color: #569CD6;">class</span> <span style="color: #4EC9B0;">Abhigyan</span>:
     <span style="color: #569CD6;">def</span> <span style="color: #DCDCAA;">__init__</span>(<span style="color: #9CDCFE;">self</span>):
@@ -47,8 +50,9 @@
 </code></pre>
 
   </td>
-    <td width="40%" align="center" valign="center">
-      <img src="https://media.giphy.com/media/qgQUggCGvnkNC/giphy.gif" width="300" alt="Hacker GIF" style="border-radius: 10px;" />
+    <td width="35%" align="center" valign="center">
+      <!-- Dark, cyber-themed GIF -->
+      <img src="https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif" width="100%" style="border-radius: 8px; border: 1px solid #00FF41;" alt="Matrix Cyber GIF" />
     </td>
   </tr>
 </table>
@@ -56,37 +60,65 @@
 ---
 
 <!-- ===================== TECH STACK ===================== -->
-<h2 align="center">⚙️ Command Center (Tech Stack)</h2>
+<h2 align="center">💻 Command Center // Tech_Stack</h2>
 
 <div align="center">
-  <p>Rather than listing 30 tags, here is what I actually build with daily:</p>
-  <br>
-  <!-- Using Skillicons for a much cleaner, unified look than Shields.io -->
-  <img src="https://skillicons.dev/icons?i=linux,bash,python,c,cpp,ts,react,nextjs,django,postgres,aws,gcp,docker,git,github&theme=dark" alt="Tech Stack" />
+  <!-- Grouped into logical rows for better display across all screens -->
+  <img src="https://skillicons.dev/icons?i=linux,bash,py,c,ts,html,css,tailwind&perline=12&theme=dark" alt="Languages & OS" />
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,django,aws,gcp,firebase,supabase&perline=12&theme=dark" alt="Frameworks & Cloud" />
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,docker,git,github,vercel,vite&perline=12&theme=dark" alt="Databases & Tools" />
 </div>
 
 <br>
 
 ---
 
-<!-- ===================== GITHUB STATS & ACTIVITY ===================== -->
-<h2 align="center">🔥 Battle Stats</h2>
+<!-- ===================== BATTLE STATS ===================== -->
+<h2 align="center">📊 System Telemetry // Battle_Stats</h2>
 
 <div align="center">
   <!-- Animated contribution graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=UltraBot05&theme=tokyo-night&bg_color=0D1117&color=00FFCC&line=00FFCC&point=FFFFFF&hide_border=true" alt="Activity Graph" width="80%" />
+  <a href="https://github.com/UltraBot05">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=UltraBot05&theme=tokyo-night&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF&hide_border=true" alt="Activity Graph" width="90%" />
+  </a>
 </div>
 
 <br>
 
+<!-- Invisible table to put Stats and Languages side-by-side -->
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="90%">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=UltraBot05&theme=neon&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117" alt="GitHub Stats" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UltraBot05&theme=neon&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0D1117" alt="Top Languages" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center" style="padding-top: 15px;">
+      <img src="https://nirzak-streak-stats.vercel.app/?user=UltraBot05&theme=neon&hide_border=true&background=0D1117" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
+
+<br>
+
 <div align="center">
-  <!-- Keep your trophies, but center them cleanly -->
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=UltraBot05&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=UltraBot05&theme=neon&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
   </a>
 </div>
 
+<br>
+
 <!-- ===================== FOOTER ===================== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:2c5364,100:0f2027&section=footer" alt="Footer" />
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=UltraBot05&icon=4&color=12" alt="Profile Views" />
+  </a>
+  <br><br>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:000000,100:0a192f&section=footer" alt="Footer" />
 </div>
