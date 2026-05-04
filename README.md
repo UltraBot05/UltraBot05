@@ -66,6 +66,14 @@
 <br>
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=UltraBot05&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UltraBot05&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+</div>
+
+<br>
+
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=UltraBot05&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
@@ -81,8 +89,8 @@
 
 <!-- ===================== FOOTER ===================== -->
 <div align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=UltraBot05&icon=4&color=12" alt="Profile Views" />
+  <a href="https://github.com/antonkomarev/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=UltraBot05&color=00E5FF&style=flat&label=SYSTEM+ACCESSES" alt="Profile Views" />
   </a>
   <br><br>
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:000000,100:0a192f&section=footer" alt="Footer" />
