@@ -36,7 +36,6 @@
 </code></pre>
   </td>
     <td width="25%" align="center" valign="center">
-      <!-- UPLOAD YOUR GIF TO GITHUB AND PASTE THE LINK BELOW -->
       <img src="https://github.com/user-attachments/assets/346a7f19-7753-4afb-bc33-f9ace65c3268" width="100%" style="border-radius: 8px; border: 1px solid #00E5FF;" alt="Hacker GIF" />
     </td>
   </tr>
@@ -62,15 +61,6 @@
   <a href="https://github.com/UltraBot05">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=UltraBot05&theme=tokyo-night&bg_color=0D1117&color=00E5FF&line=00E5FF&point=FFFFFF&hide_border=true" alt="Activity Graph" width="90%" />
   </a>
-</div>
-
-<br>
-
-<!-- Stats placed in standard center alignment to prevent GitHub Camo blocking -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=UltraBot05&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UltraBot05&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
 
 <br>
