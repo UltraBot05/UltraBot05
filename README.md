@@ -5,7 +5,7 @@
 
 <!-- ===================== TYPING SVG ===================== -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FFCC&center=true&vCenter=true&width=600&lines=Systems+%26+Backend+Engineer;Cybersecurity+%26+Infrastructure;Open+Source+Contributor+(OpenWISP);Building+Things+That+Scale+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FFCC&center=true&vCenter=true&width=850&lines=Systems+%26+Backend+Engineer;Cybersecurity+%26+Infrastructure;Open+Source+Contributor+(OpenWISP);Building+Things+That+Scale+🚀" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -22,36 +22,21 @@
 
 <br>
 
-<!-- ===================== ABOUT ME (PYTHON STYLE) ===================== -->
+<!-- ===================== ABOUT ME (TERMINAL STYLE) ===================== -->
 <table align="center" width="100%" style="border: none;">
   <tr>
-    <td width="65%" valign="top">
+    <td width="75%" valign="center">
+<pre><code><span style="color: #00FF41;">root@UltraBot05</span>:<span style="color: #007ACC;">~</span>$ cat about_me.txt
 
-<pre><code><span style="color: #569CD6;">class</span> <span style="color: #4EC9B0;">Abhigyan</span>:
-    <span style="color: #569CD6;">def</span> <span style="color: #DCDCAA;">__init__</span>(<span style="color: #9CDCFE;">self</span>):
-        <span style="color: #9CDCFE;">self</span>.role = <span style="color: #CE9178;">"Systems & Backend Developer"</span>
-        <span style="color: #9CDCFE;">self</span>.education = <span style="color: #CE9178;">"CS Undergrad @ PES University"</span>
-        
-        <span style="color: #9CDCFE;">self</span>.current_focus = {
-            <span style="color: #CE9178;">"Open Source"</span>: [<span style="color: #CE9178;">"OpenWISP"</span>, <span style="color: #CE9178;">"Contributor"</span>],
-            <span style="color: #CE9178;">"Security"</span>: <span style="color: #CE9178;">"Honeypots & Wazuh Implementation"</span>,
-            <span style="color: #CE9178;">"Dev"</span>: <span style="color: #CE9178;">"PESU Content Automation Suite"</span>
-        }
-
-    <span style="color: #569CD6;">def</span> <span style="color: #DCDCAA;">get_interests</span>(<span style="color: #9CDCFE;">self</span>):
-        <span style="color: #C586C0;">return</span> [
-            <span style="color: #CE9178;">"Linux/Zsh Customization"</span>, 
-            <span style="color: #CE9178;">"Cloud Architecture (AWS)"</span>,
-            <span style="color: #CE9178;">"Low-level System Networking"</span>
-        ]
-
-    <span style="color: #569CD6;">def</span> <span style="color: #DCDCAA;">fun_fact</span>(<span style="color: #9CDCFE;">self</span>):
-        <span style="color: #C586C0;">return</span> <span style="color: #CE9178;">"Powered by Ayrton Senna stickers & occasional singing 🏎️🎤"</span>
+<span style="color: #00FFCC;">&gt;</span> I am working on a cybersecurity project with honeypots and Wazuh and also building the PESU Content Automation Suite to help students get course materials easily.
+<span style="color: #00FFCC;">&gt;</span> I am looking to contribute/contributing on open source security tools or networking projects involving The Honeynet Project and OpenWISP.
+<span style="color: #00FFCC;">&gt;</span> I am currently learning the details of AWS Cloud Computing, along with my current coursework.
+<span style="color: #00FFCC;">&gt;</span> Ask me about Linux, Zsh terminal customization, shell scripting, cloud concepts, etc.
+<span style="color: #00FFCC;">&gt;</span> Fun fact: I have Ayrton Senna stickers on my laptop and I am an occasional singer. 🏎️🎤
 </code></pre>
-
   </td>
-    <td width="35%" align="center" valign="center">
-      <img src="https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif" width="100%" style="border-radius: 8px; border: 1px solid #00FF41;" alt="Matrix Cyber GIF" />
+    <td width="25%" align="center" valign="center">
+      <img src="https://media.giphy.com/media/qgQUggCGvnkNC/giphy.gif" width="100%" style="border-radius: 8px; border: 1px solid #00FF41;" alt="Hacker GIF" />
     </td>
   </tr>
 </table>
@@ -62,8 +47,7 @@
 <h2 align="center">💻 Command Center // Tech_Stack</h2>
 
 <div align="center">
-  <!-- Stripped down to your actual, proven stack. No fluff. -->
-  <img src="https://skillicons.dev/icons?i=linux,bash,py,c,ts,react,nextjs,django,aws,postgres,docker,git,github,vercel&perline=7&theme=dark" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=linux,bash,py,c,ts,html,css,tailwind,react,nextjs,django,aws,gcp,firebase,supabase,postgres,sqlite,docker,git,github,vercel,vite&perline=11&theme=dark" alt="Tech Stack" />
 </div>
 
 <br>
@@ -81,24 +65,28 @@
 
 <br>
 
-<!-- Using inline block for proper side-by-side rendering without table breaks -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=UltraBot05&theme=neon&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117" alt="GitHub Stats" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UltraBot05&theme=neon&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0D1117" alt="Top Languages" />
-</div>
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=UltraBot05&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UltraBot05&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
 <br>
 
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=UltraBot05&theme=neon&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=UltraBot05&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <br>
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=UltraBot05&theme=neon&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=UltraBot05&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
   </a>
 </div>
 
