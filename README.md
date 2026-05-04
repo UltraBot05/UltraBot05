@@ -1,22 +1,92 @@
-# 💫 About Me:
-I am working on a cybersecurity project with honeypots and Wazuh and also building the PESU Content Automation Suite to help students get course materials easily.<br>I am looking to contribute/ contributing on open source security tools or networking projects involving The Honeynet Project and OpenWISP<br>I am currently learning the details of AWS Cloud Computing, along with my current coursework.<br>Ask me about Linux, Zsh terminal customization, shell scripting, cloud concepts, etc.<br>Fun fact I have Ayrton Senna stickers on my laptop and I am an occasional singer.
+<!-- ===================== HEADER ===================== -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0f2027,50:203a43,100:2c5364&text=Abhigyan&fontSize=70&fontColor=00ffcc&animation=fadeIn&fontAlignY=35" alt="Header" />
+</div>
 
+<!-- ===================== TYPING SVG ===================== -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFCC&center=true&vCenter=true&width=600&lines=Systems+%26+Backend+Engineer;Open+Source+Contributor+(OpenWISP);Linux+%26+Cloud+Infrastructure;Building+Things+That+Scale+🚀" alt="Typing SVG" />
+</div>
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tlauncherati@gmail.com) 
+<div align="center">
+  <a href="https://linkedin.com/in/adutta05" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a> 
+  <a href="https://abhigyan-site.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+</div>
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)  ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=flat&logo=playwright&logoColor=white)
+<br>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=UltraBot05&theme=neon&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=UltraBot05&theme=neon&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=UltraBot05&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<!-- ===================== ABOUT ME (PYTHON STYLE) ===================== -->
+<table align="center" width="100%" style="border: none;">
+  <tr>
+    <td width="60%" valign="top">
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=UltraBot05&theme=neon&no-frame=false&no-bg=false&margin-w=4)
+<pre><code><span style="color: #569CD6;">class</span> <span style="color: #4EC9B0;">Abhigyan</span>:
+    <span style="color: #569CD6;">def</span> <span style="color: #DCDCAA;">__init__</span>(<span style="color: #9CDCFE;">self</span>):
+        <span style="color: #9CDCFE;">self</span>.role = <span style="color: #CE9178;">"Systems & Backend Developer"</span>
+        <span style="color: #9CDCFE;">self</span>.education = <span style="color: #CE9178;">"CS Undergrad @ PES University"</span>
+        
+        <span style="color: #9CDCFE;">self</span>.current_focus = {
+            <span style="color: #CE9178;">"Open Source"</span>: [<span style="color: #CE9178;">"OpenWISP"</span>, <span style="color: #CE9178;">"GSSoC '26 Mentor"</span>],
+            <span style="color: #CE9178;">"Security"</span>: <span style="color: #CE9178;">"Honeypots & Wazuh Implementation"</span>,
+            <span style="color: #CE9178;">"Dev"</span>: <span style="color: #CE9178;">"PESU Content Automation Suite"</span>
+        }
+
+    <span style="color: #569CD6;">def</span> <span style="color: #DCDCAA;">get_interests</span>(<span style="color: #9CDCFE;">self</span>):
+        <span style="color: #C586C0;">return</span> [
+            <span style="color: #CE9178;">"Linux/Zsh Customization"</span>, 
+            <span style="color: #CE9178;">"Cloud Architecture (AWS)"</span>,
+            <span style="color: #CE9178;">"Low-level System Networking"</span>
+        ]
+
+    <span style="color: #569CD6;">def</span> <span style="color: #DCDCAA;">fun_fact</span>(<span style="color: #9CDCFE;">self</span>):
+        <span style="color: #C586C0;">return</span> <span style="color: #CE9178;">"Powered by Ayrton Senna stickers & occasional singing 🏎️🎤"</span>
+</code></pre>
+
+  </td>
+    <td width="40%" align="center" valign="center">
+      <img src="https://media.giphy.com/media/qgQUggCGvnkNC/giphy.gif" width="300" alt="Hacker GIF" style="border-radius: 10px;" />
+    </td>
+  </tr>
+</table>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=UltraBot05&icon=4&color=12)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- ===================== TECH STACK ===================== -->
+<h2 align="center">⚙️ Command Center (Tech Stack)</h2>
+
+<div align="center">
+  <p>Rather than listing 30 tags, here is what I actually build with daily:</p>
+  <br>
+  <!-- Using Skillicons for a much cleaner, unified look than Shields.io -->
+  <img src="https://skillicons.dev/icons?i=linux,bash,python,c,cpp,ts,react,nextjs,django,postgres,aws,gcp,docker,git,github&theme=dark" alt="Tech Stack" />
+</div>
+
+<br>
+
+---
+
+<!-- ===================== GITHUB STATS & ACTIVITY ===================== -->
+<h2 align="center">🔥 Battle Stats</h2>
+
+<div align="center">
+  <!-- Animated contribution graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=UltraBot05&theme=tokyo-night&bg_color=0D1117&color=00FFCC&line=00FFCC&point=FFFFFF&hide_border=true" alt="Activity Graph" width="80%" />
+</div>
+
+<br>
+
+<div align="center">
+  <!-- Keep your trophies, but center them cleanly -->
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=UltraBot05&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+  </a>
+</div>
+
+<!-- ===================== FOOTER ===================== -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:2c5364,100:0f2027&section=footer" alt="Footer" />
+</div>
